@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ollama pull mistral
 ollama serve
 ```
-4. For Q/A using streamit
+4. For Q/A using streamlit
 ```bash
 streamlit run app.py
 ```
